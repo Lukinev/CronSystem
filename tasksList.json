@@ -2,13 +2,13 @@
     "tasksList": [
         {
             "taskName": "first task",
-            "taskSchedule": "*/1 * * * *",
-            "moduleName":"test"
+            "taskSchedule": "* * * * *",
+            "taskModuleName":"test"
         },
         {
             "taskName": "second task",
-            "taskSchedule": "*/1 * * * *",
-            "moduleName":"test2"
+            "taskSchedule": "* * * * *",
+            "taskModuleName":"test2"
         }
     ]
 }
