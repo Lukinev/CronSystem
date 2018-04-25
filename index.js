@@ -29,7 +29,7 @@ async function fnc() {
     }
 };
 
-jobs = fnc().slice;
+jobs = fnc();
 
 
 for (let index = 0; index < jobs.length; index++) {
