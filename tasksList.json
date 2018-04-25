@@ -1,0 +1,14 @@
+{
+    "tasksList": [
+        {
+            "taskName": "first task",
+            "taskSchedule": "*/1 * * * *",
+            "moduleName":"test"
+        },
+        {
+            "taskName": "second task",
+            "taskSchedule": "*/1 * * * *",
+            "moduleName":"test2"
+        }
+    ]
+}
