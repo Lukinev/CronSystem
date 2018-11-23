@@ -6,6 +6,7 @@
   "author": "Lukin Evgeniy",
   "license": "ISC",
   "dependencies": {
-    "cron": "^1.3.0"
+    "cron": "^1.5.0",
+    "node-firebird": "^0.8.6"
   }
 }
